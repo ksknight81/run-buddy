@@ -121,6 +121,10 @@ section {
   font-size: 16px;
 }
 
+.hero-form-privacy {
+  color: #fce138;
+}
+
 .intro {
   text-align: center;
 }
