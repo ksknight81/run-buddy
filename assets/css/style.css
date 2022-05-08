@@ -91,6 +91,20 @@ section {
   right: 140px;
 }
 
+.hero-habits {
+  padding: 0px;
+  width: 500px;
+  font-size: 16px;
+  color: white;
+  text-align: right;
+}
+
+.hero-habits h2 {
+  text-align: right;
+  font-size: 36px;
+  color: #fce138;
+}
+
 .hero-form h3 {
   font-size: 24px;
   margin: 0;
