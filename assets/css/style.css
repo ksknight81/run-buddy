@@ -27,6 +27,7 @@ header h1 {
   margin: 0;
   font-size: 36px;
   color: #fce138;
+  text-shadow: 0 0 10px rgba (0, 0, 0, 0.5);
 }
 
 header a {
@@ -50,6 +51,7 @@ header nav ul li a {
   padding: 10px 15px;
   font-weight: lighter;
   font-size: 1.55vw;
+  text-shadow: 0 0 10px rgba (0, 0, 0, 0.5);
 }
 
 /* HEADER / NAVBAR STYLES END */
@@ -105,6 +107,7 @@ section {
   color: #fff;
   font-size: 18px;
   line-height: 1.2;
+  text-shadow: 0 0 10px rgba (0, 0, 0, 0.5);
 }
 
 .hero-cta h2 {
@@ -345,6 +348,12 @@ section {
 
 .contact-info a {
   color: #fce138;
+}
+
+.hero-form {
+  box-shadow: 0 0 10px rbga(0, 0, 0, 0.5);
+  border: 10px solid red; 
+  border-radius: 10px;
 }
 
 
